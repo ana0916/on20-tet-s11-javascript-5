@@ -25,6 +25,8 @@ body {
 }
 
 card-body {
+
+ margin-top: 300px;
   display: flex;
   flex-direction: column;
   justify-content: end;
@@ -59,4 +61,10 @@ card-body {
   margin-top:20px;
   display: flex;
   justify-content: center;
+}
+
+.card-img-top{
+
+  margin-left: 60px;
+  padding: 10px;
 }
